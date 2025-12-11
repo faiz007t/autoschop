@@ -2,12 +2,12 @@
 SSH OVER DNS create By NevermoreSSH
 * Link Script Repo SlowDNS dari NevermoreSSH
 ```html
-https://github.com/NevermoreSSH/hopp
+https://github.com/faiz007t/autoschop
 ```
 
 Script Auto Installer SlowDNS
 ```html
-wget -q -O /usr/bin/install-sldns "https://raw.githubusercontent.com/NevermoreSSH/hop/main/SLDNS/install-sldns" && chmod +x /usr/bin/install-sldns && install-sldns
+wget -q -O /usr/bin/install-sldns "https://raw.githubusercontent.com/faiz007t/autoschop/main/SLDNS/install-sldns" && chmod +x /usr/bin/install-sldns && install-sldns
 ```
 How to run: 
 ```html
