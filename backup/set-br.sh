@@ -17,7 +17,7 @@ MYIP=$(curl -sS ipv4.icanhazip.com)
 MYIP=$(curl -sS ifconfig.me )
 echo "Checking VPS"
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/NevermoreSSH/hop/main/backup"
+akbarvpn="raw.githubusercontent.com/faiz007t/autoschop/main/backup"
 
 apt install rclone -y
 printf "q\n" | rclone config
