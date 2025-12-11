@@ -14,16 +14,16 @@ LIGHT='\033[0;37m'
 MYIP=$(wget -qO- ipinfo.io/ip);
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/NevermoreSSH/hop/main/ssh"
+akbarvpn="raw.githubusercontent.com/faiz007t/autoschop/main/ssh"
 
 # Link Hosting Kalian Untuk Xray
-akbarvpnn="raw.githubusercontent.com/NevermoreSSH/hop/main/xray"
+akbarvpnn="raw.githubusercontent.com/faiz007t/autoschop/main/xray"
 
 # Link Hosting Kalian Untuk Trojan Go
-akbarvpnnn="raw.githubusercontent.com/NevermoreSSH/hop/main/trojango"
+akbarvpnnn="raw.githubusercontent.com/faiz007t/autoschop/main/trojango"
 
 # Link Hosting Kalian Untuk Stunnel5
-akbarvpnnnn="raw.githubusercontent.com/NevermoreSSH/hop/main/stunnel5"
+akbarvpnnnn="raw.githubusercontent.com/faiz007t/autoschop/main/stunnel5"
 
 # initializing var
 export DEBIAN_FRONTEND=noninteractive

@@ -30,7 +30,7 @@ exit 0
 fi
 # ==================================================
 # Link Hosting Kalian
-fisabiliyusri="raw.githubusercontent.com/NevermoreSSH/hop/main/wireguard"
+fisabiliyusri="raw.githubusercontent.com/faiz007t/autoschop/main/wireguard"
 
 # Check OS version
 if [[ -e /etc/debian_version ]]; then
@@ -115,9 +115,9 @@ WG_RUNNING=$?
 
 # Tambahan
 cd /usr/bin
-wget -O addwg "https://raw.githubusercontent.com/NevermoreSSH/hop/main/wireguard/addwg.sh"
-wget -O delwg "https://raw.githubusercontent.com/NevermoreSSH/hop/main/wireguard/delwg.sh"
-wget -O renewwg "https://raw.githubusercontent.com/NevermoreSSH/hop/main/wireguard/renewwg.sh"
+wget -O addwg "https://raw.githubusercontent.com/faiz007t/autoschop/main/wireguard/addwg.sh"
+wget -O delwg "https://raw.githubusercontent.com/faiz007t/autoschop/main/wireguard/delwg.sh"
+wget -O renewwg "https://raw.githubusercontent.com/faiz007t/autoschop/main/wireguard/renewwg.sh"
 chmod +x addwg
 chmod +x delwg
 chmod +x renewwg

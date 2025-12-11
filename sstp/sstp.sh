@@ -26,7 +26,7 @@ echo -e "${NC}${LIGHT}Fuck You!!"
 exit 0
 fi
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/NevermoreSSH/hop/main/sstp"
+akbarvpn="raw.githubusercontent.com/faiz007t/autoschop/main/sstp"
 
 MYIP=$(wget -qO- ipinfo.io/ip);
 MYIP2="s/xxxxxxxxx/$MYIP/g";

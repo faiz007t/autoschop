@@ -94,7 +94,7 @@ Opcao9 () {
 
 Opcao10 () {
     clear
-    wget https://raw.githubusercontent.com/NevermoreSSH/hop/main/Slowdns/update
+    wget https://raw.githubusercontent.com/faiz007t/autoschop/main/Slowdns/update
     chmod +x update
     bash update
 }

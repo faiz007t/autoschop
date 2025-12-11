@@ -17,16 +17,16 @@ MYIP=$(curl -sS ipv4.icanhazip.com)
 MYIP=$(curl -sS ifconfig.me )
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/NevermoreSSH/hop/main/ssh"
+akbarvpn="raw.githubusercontent.com/faiz007t/autoschop/main/ssh"
 
 # Link Hosting Kalian Untuk Xray
-akbarvpnn="raw.githubusercontent.com/NevermoreSSH/hop/main/xray"
+akbarvpnn="raw.githubusercontent.com/faiz007t/autoschop/main/xray"
 
 # Link Hosting Kalian Untuk Trojan Go
-akbarvpnnn="raw.githubusercontent.com/NevermoreSSH/hop/main/trojango"
+akbarvpnnn="raw.githubusercontent.com/faiz007t/autoschop/main/trojango"
 
 # Link Hosting Kalian Untuk Stunnel5
-akbarvpnnnn="raw.githubusercontent.com/NevermoreSSH/hop/main/stunnel5"
+akbarvpnnnn="raw.githubusercontent.com/faiz007t/autoschop/main/stunnel5"
 
 # initializing var
 export DEBIAN_FRONTEND=noninteractive
@@ -383,7 +383,7 @@ wget -O dns "https://${akbarvpn}/dns.sh"
 wget -O netf "https://${akbarvpn}/netf.sh"
 wget -O bbr2 "https://${akbarvpn}/bbr2.sh"
 wget -O about "https://${akbarvpn}/about.sh"
-wget -O menu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/menu.sh"
+wget -O menu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/menu.sh"
 wget -O addssh "https://${akbarvpn}/addssh.sh"
 wget -O trialssh "https://${akbarvpn}/trialssh.sh"
 wget -O delssh "https://${akbarvpn}/delssh.sh"
@@ -430,32 +430,32 @@ wget -O addtrgo "https://${akbarvpnnn}/addtrgo.sh"
 wget -O deltrgo "https://${akbarvpnnn}/deltrgo.sh"
 wget -O renewtrgo "https://${akbarvpnnn}/renewtrgo.sh"
 wget -O cektrgo "https://${akbarvpnnn}/cektrgo.sh"
-wget -O portsshnontls "https://raw.githubusercontent.com/NevermoreSSH/hop/main/websocket/portsshnontls.sh"
-wget -O portsshws "https://raw.githubusercontent.com/NevermoreSSH/hop/main/websocket/portsshws.sh"
+wget -O portsshnontls "https://raw.githubusercontent.com/faiz007t/autoschop/main/websocket/portsshnontls.sh"
+wget -O portsshws "https://raw.githubusercontent.com/faiz007t/autoschop/main/websocket/portsshws.sh"
 wget -O userv2ray "https://${akbarvpnn}/userv2ray.sh"
 wget -O uservless "https://${akbarvpnn}/uservless.sh"
 
-wget -O ipsaya "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/ipsaya.sh"
-wget -O sshovpnmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/sshovpn.sh"
-wget -O l2tpmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/l2tpmenu.sh"
-wget -O pptpmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/pptpmenu.sh"
-wget -O sstpmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/sstpmenu.sh"
-wget -O wgmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/wgmenu.sh"
-wget -O ssmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/ssmenu.sh"
-wget -O ssrmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/ssrmenu.sh"
-wget -O vmessmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/vmessmenu.sh"
-wget -O vlessmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/vlessmenu.sh"
-wget -O grpcmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/grpcmenu.sh"
-wget -O grpcupdate "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/grpcupdate.sh"
-wget -O trmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/trmenu.sh"
-wget -O trgomenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/trgomenu.sh"
-wget -O setmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/setmenu.sh"
-wget -O slowdnsmenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/slowdnsmenu.sh"
-wget -O running "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/running.sh"
-wget -O updatemenu "https://raw.githubusercontent.com/NevermoreSSH/hop/main/update/updatemenu.sh"
-wget -O sl-fix "https://raw.githubusercontent.com/NevermoreSSH/hop/main/sslh-fix/sl-fix"
-wget -O install-sldns "https://raw.githubusercontent.com/NevermoreSSH/hop/main/SLDNS/install-sldns"
-wget -O fssw "https://raw.githubusercontent.com/NevermoreSSH/hopp/main/fssw/fssw.sh"
+wget -O ipsaya "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/ipsaya.sh"
+wget -O sshovpnmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/sshovpn.sh"
+wget -O l2tpmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/l2tpmenu.sh"
+wget -O pptpmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/pptpmenu.sh"
+wget -O sstpmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/sstpmenu.sh"
+wget -O wgmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/wgmenu.sh"
+wget -O ssmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/ssmenu.sh"
+wget -O ssrmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/ssrmenu.sh"
+wget -O vmessmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/vmessmenu.sh"
+wget -O vlessmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/vlessmenu.sh"
+wget -O grpcmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/grpcmenu.sh"
+wget -O grpcupdate "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/grpcupdate.sh"
+wget -O trmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/trmenu.sh"
+wget -O trgomenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/trgomenu.sh"
+wget -O setmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/setmenu.sh"
+wget -O slowdnsmenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/slowdnsmenu.sh"
+wget -O running "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/running.sh"
+wget -O updatemenu "https://raw.githubusercontent.com/faiz007t/autoschop/main/update/updatemenu.sh"
+wget -O sl-fix "https://raw.githubusercontent.com/faiz007t/autoschop/main/sslh-fix/sl-fix"
+wget -O install-sldns "https://raw.githubusercontent.com/faiz007t/autoschop/main/SLDNS/install-sldns"
+wget -O fssw "https://raw.githubusercontent.com/faiz007t/autoschop/main/fssw/fssw.sh"
 
 chmod +x sl-fix
 chmod +x fssw

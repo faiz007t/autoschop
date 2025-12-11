@@ -25,7 +25,7 @@ fi
 # Mod By NevermoreSSH
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/NevermoreSSH/hop/main/ssh"
+akbarvpn="raw.githubusercontent.com/faiz007t/autoschop/main/ssh"
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
