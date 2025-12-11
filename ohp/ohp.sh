@@ -28,7 +28,7 @@ exit 0
 fi
 
 # Download File Ohp
-wget https://github.com/NevermoreSSH/addons/releases/download/ohpserver-linux32/ohpserver-linux32.zip
+wget https://github.com/faiz007t/autoschop/raw/refs/heads/main/ohp/ohpserver-linux32.zip
 unzip ohpserver-linux32.zip
 chmod +x ohpserver
 cp ohpserver /usr/local/bin/ohpserver

@@ -7,6 +7,6 @@ sudo apt install git -y
 apt install git -y
 cd
 cd /root/
-git clone https://github.com/NevermoreSSH/hop
+git clone https://github.com/faiz007t/autoschop
 
 cd

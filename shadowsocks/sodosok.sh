@@ -26,7 +26,7 @@ echo -e "${NC}${LIGHT}Fuck You!!"
 exit 0
 fi
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/NevermoreSSH/hop/main/shadowsocks"
+akbarvpn="raw.githubusercontent.com/faiz007t/autoschop/main/shadowsocks"
 
 source /etc/os-release
 OS=$ID

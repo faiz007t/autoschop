@@ -17,11 +17,11 @@ mkdir -p /usr/local/bin/
 mkdir -p /etc/shadowsocks
 rm -rf /usr/bin/shadowhost
 cd /usr/bin
-wget -O addss-p "https://raw.githubusercontent.com/NevermoreSSH/hop/main/shadowsocks-plugin/addss-p.sh"
+wget -O addss-p "https://raw.githubusercontent.com/faiz007t/autoschop/main/shadowsocks-plugin/addss-p.sh"
 chmod +x addss-p
-#wget -O shadowhost "https://raw.githubusercontent.com/NevermoreSSH/hop/main/shadowsocks-plugin/shadowhost.sh"
+#wget -O shadowhost "https://raw.githubusercontent.com/faiz007t/autoschop/main/shadowsocks-plugin/shadowhost.sh"
 #chmod +x shadowhost && shadowhost
-wget -O delss "https://raw.githubusercontent.com/NevermoreSSH/hop/main/shadowsocks/delss.sh"
+wget -O delss "https://raw.githubusercontent.com/faiz007t/autoschop/main/shadowsocks/delss.sh"
 cd
 MYIP=$(wget -qO- ipinfo.io/ip);
 clear
@@ -99,7 +99,7 @@ sudo lsof -t -i tcp:80 -s tcp:listen | sudo xargs kill
 #cd /root/
 #rm -rf acme.sh
 #rm -rf .acme.sh
-#wget -O acme.sh https://raw.githubusercontent.com/NevermoreSSH/hop/main/acme.sh
+#wget -O acme.sh https://raw.githubusercontent.com/faiz007t/autoschop/main/acme.sh
 #bash acme.sh --install
 #rm acme.sh
 #cd .acme.sh
